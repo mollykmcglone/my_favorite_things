@@ -1,12 +1,10 @@
 h1 {
   color: blue;
-  text-align: center;
   font-family: sans-serif;
 }
 
 h2 {
   font-style: italic;
-  text-align: center;
   font-family: sans-serif;
 }
 
@@ -33,3 +31,8 @@ ol {
   font-family: sans-serif;
   line-height: 30px;
 }
+
+p.different {
+  font-style: italic;
+}
+
